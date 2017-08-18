@@ -1,0 +1,8 @@
+#header, .mobile, .monitor, #bCrumbs, #mainNav ul li a, #mainNav li, hr, h1, #social h3,#social p ,#social ul, #social ul li, #social ul li a, #social img, #main p, #main p+img, #footer ol li, #footer p, #form	{display: none;
+													}
+body		{background-color: #fff;
+}													
+													
+													
+.print	{padding-left: 23%;
+		visibility: visible;}
